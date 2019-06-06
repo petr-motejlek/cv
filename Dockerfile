@@ -1,23 +1,18 @@
-# syntax=docker/dockerfile:1.0-experimental
+FROM mcr.microsoft.com/azure-functions/node:2.0
 
-FROM ubuntu:latest AS build
-
-COPY index.md /
-
+SHELL ["/usr/bin/env", "bash", "-xeuo", "pipefail", "-c"]
+ENV AzureWebJobsScriptRoot=/home/site/wwwroot \
+    AzureFunctionsJobHost__Logging__Console__IsEnabled=true
+COPY . /home/site/wwwroot
 RUN	true \
 	&& apt-get update \
 	&& apt-get install -y --no-install-recommends \
 		ca-certificates \
 		wget \
 	&& wget https://github.com/jgm/pandoc/releases/download/2.7.2/pandoc-2.7.2-1-amd64.deb \
-	&& dpkg -i pandoc-2.7.2-1-amd64.deb
-
-CMD 	[ \ 
-		"pandoc", \
-			"-f", "gfm", \
-			"-i", "index.md", \
-			"-t", "html5", \
-			"-s", "--self-contained", \
-			"-M", "title='Petr Motejlek, Curriculum Vitae'", \
-			"-o", "/dev/stdout" \
-	]
+	&& dpkg -i pandoc-2.7.2-1-amd64.deb \
+	&& find /var/lib/apt/lists \
+		-mindepth 1 \
+		-delete \
+	&& pushd /home/site/wwwroot \
+		&& npm install
