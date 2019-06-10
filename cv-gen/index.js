@@ -13,6 +13,7 @@ module.exports = async function (context, req) {
 	    "-t", "html5",
 	    "-s", "--self-contained",
 	    "-M", "title='Petr Motejlek, Curriculum Vitae'",
+	    "--css", "github.css",
 	    "-o", "index.html"
 	].join(" ") );
     context.log("Generated the HTML file from Markdown.");
