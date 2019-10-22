@@ -22,7 +22,7 @@
 
 ## Professional History
 
-### 2015-present: Manager Software Development Engineer in Test at Akamai
+### 2015-present: Engineering Manager at Akamai
 * Lead 8+ engineers spread across two scrum teams.
 * Besides servant-leading, being involved in one team as a scrum master, also runs an agile evangelization group within the organization.
 * Daily experience with Scrum, Kanban, JIRA.
