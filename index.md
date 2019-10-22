@@ -9,7 +9,6 @@
 - Working as a team, rather than an individual or a group of individuals.
 - Drive for continuously inspecting and adapting on all levels of the organization.
 - Flat organization with high-performing teams organized around projects with full support, responsibility and accountability.
-- Incremental (waterfall) development with long release cycles.
 
 - Able to work as a leader (experience with managing people, being a Product Owner and Scrum Master), however prefers being a highly engaged member of a development team.
 
@@ -19,6 +18,7 @@
 - Thinking of people as “resources” and thinking they can deliver the best output when working on more than one project.
 - People’s reluctance to continuously improve.
 - Repetitive manual tasks and outgrown historical systems.
+- Incremental (waterfall) development with long release cycles.
 
 ## Professional History
 
