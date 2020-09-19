@@ -2,7 +2,7 @@
 # Petr Motejlek
 ## Enjoys Doing, Knows About and is Highly Motivated By
 - Automation and clouds, with continuous integration and deployment.
-- Ansible, Docker, Python, IntelliJ IDEA, Scrum, AWS, Azure, Git, and more.
+- Ansible, Docker, Python, TypeScript, IntelliJ IDEA, VS Code, Scrum, AWS, Azure, Git, and more.
 - Iterative development with short release cycles.
 
 - Transparency and openness.
@@ -16,13 +16,17 @@
 - Organizational politics.
 - Complex organizational ladders and hierarchy.
 - Thinking of people as “resources” and thinking they can deliver the best output when working on more than one project.
-- People’s reluctance to continuously improve.
+- People's reluctance to continuously improve.
 - Repetitive manual tasks and outgrown historical systems.
 - Incremental (waterfall) development with long release cycles.
 
 ## Professional History
 
-### 2015-present: Engineering Manager at Akamai
+### 2019-present: Software Development Engineer at Akamai
+* Full-stack development of a feature enablement service that protomotes DevOps culture
+  across engineering groups at Akamai.
+
+### 2015-2019: Engineering Manager at Akamai
 * Lead 8+ engineers spread across two scrum teams.
 * Besides servant-leading, being involved in one team as a scrum master, also runs an agile evangelization group within the organization.
 * Daily experience with Scrum, Kanban, JIRA.
