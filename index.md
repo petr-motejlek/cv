@@ -2,7 +2,7 @@
 # Petr Motejlek
 ## Enjoys Doing, Knows About and is Highly Motivated By
 - Automation and clouds, with continuous integration and deployment.
-- Ansible, Docker, Python, TypeScript, IntelliJ IDEA, VS Code, Scrum, AWS, Azure, Git, and more.
+- TypeScript, Ansible, Docker, Python, IntelliJ IDEA, VS Code, Scrum, AWS, Azure, Git, and more.
 - Iterative development with short release cycles.
 
 - Transparency and openness.
