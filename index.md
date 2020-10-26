@@ -30,6 +30,7 @@
 - People's reluctance to continuously improve.
 - Repetitive manual tasks and outgrown historical systems.
 - Incremental (waterfall) development with long release cycles.
+- Waste, both physical (unnecessary paper overuse), as well as process.
 
 ## Professional History
 - Too much to all fit here. There's a lot I know already, and what I don't know, am always willing to learn, if it helps us grow and deliver better solutions.
