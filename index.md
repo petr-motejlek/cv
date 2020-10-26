@@ -1,6 +1,14 @@
 # CV
 # Petr Motejlek
-## Enjoys Doing, Knows About and is Highly Motivated By
+## What I Am Offering
+- 15+ years of experience spanning software development for a plethora of platforms, network administration and maintenance, full stack web development, single machine setups as well as clusters. I also have experience talking to customers, and am able to proficiently understand their problems and propose appropriate solutions.  
+- Very quick learner, preferring diving deep, rather than superficial understanding.
+- Knowledge about multiple different programming languages and paradigms (currently, my favorites are TypeScript, OOO TDD a DDD with a sprinkle of functional programming).
+
+## What I Am Looking For
+- Agile, open, transparent and trusting environment where teams are empowered to come up with solutions to problems on their own. No long-winded requirement specification or design documents written by "somebody else" for the teams to "implement without thinking".
+
+## I Enjoy Doing, Know About and Am Highly Motivated By
 - Automation and clouds, with continuous integration and deployment.
 - TypeScript, Ansible, Docker, Python, IntelliJ IDEA, VS Code, Scrum, AWS, Azure, Git, and more.
 - Iterative development with short release cycles.
@@ -12,7 +20,7 @@
 
 - Able to work as a leader (experience with managing people, being a Product Owner and Scrum Master), however prefers being a highly engaged member of a development team.
 
-## Dislikes and Gets Demotivated By
+## I Dislike and Get Demotivated By
 - Organizational politics.
 - Complex organizational ladders and hierarchy.
 - Thinking of people as “resources” and thinking they can deliver the best output when working on more than one project.
@@ -21,6 +29,7 @@
 - Incremental (waterfall) development with long release cycles.
 
 ## Professional History
+- Too much to all fit here. There's a lot I know already, and what I don't know, am always willing to learn, if it helps us grow and deliver better solutions.
 
 ### 2019-present: Software Development Engineer at Akamai
 * Full-stack development of a feature enablement service that protomotes DevOps culture
