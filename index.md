@@ -16,6 +16,7 @@
 
 - Transparency and openness.
 - Sharing what I know with others.
+- Learning more and more.
 - Working as a team, rather than an individual or a group of individuals.
 - Drive for continuously inspecting and adapting on all levels of the organization.
 - Flat organization with high-performing teams organized around projects with full support, responsibility and accountability.
