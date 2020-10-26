@@ -24,6 +24,8 @@
 
 - Able to work as a leader (experience with managing people, being a Product Owner and Scrum Master), however prefers being a highly engaged member of a development team.
 
+- Like to travel.
+
 ## I Dislike and Get Demotivated By
 - Organizational politics.
 - Complex organizational ladders and hierarchy.
