@@ -17,7 +17,7 @@
 - Transparency and openness.
 - Sharing what I know with others.
 - Learning more and more.
-- Working as a team, rather than an individual or a group of individuals.
+- Working as a team, rather than an individual or a group of individuals. Pair and/or mob programming.
 - Drive for continuously inspecting and adapting on all levels of the organization.
 - Flat organization with high-performing teams organized around projects with full support, responsibility and accountability.
 - I prefer face to face conversations, however understand that right now, that's not really possible.
