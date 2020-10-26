@@ -18,6 +18,7 @@
 - Working as a team, rather than an individual or a group of individuals.
 - Drive for continuously inspecting and adapting on all levels of the organization.
 - Flat organization with high-performing teams organized around projects with full support, responsibility and accountability.
+- I prefer face to face conversations, however understand that right now, that's not really possible.
 
 - Able to work as a leader (experience with managing people, being a Product Owner and Scrum Master), however prefers being a highly engaged member of a development team.
 
