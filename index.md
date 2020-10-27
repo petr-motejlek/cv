@@ -10,7 +10,7 @@
 - Agile, open, transparent and trusting environment where teams are empowered to come up with solutions to problems on their own. No long-winded requirement specification or design documents written by "somebody else" for the teams to "implement without thinking".
 
 ## I Enjoy Doing, Know About and Am Highly Motivated By
-- Automation and clouds, with continuous integration and deployment.
+- Automation and clouds, with continuous integration and deployment (DevOps is a must).
 - TypeScript, Ansible, Kubernetes, Docker, Python, IntelliJ IDEA, VS Code, Scrum, AWS, Azure, Git, and more.
 - Iterative development with short release cycles.
 
