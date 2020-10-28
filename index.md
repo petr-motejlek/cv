@@ -12,7 +12,7 @@
 
 ## I Enjoy Doing, Know About and Am Highly Motivated By
 - Automation and clouds, with continuous integration and deployment (DevOps is a must).
-- TypeScript, Ansible, Kubernetes, Docker, Python, IntelliJ IDEA, VS Code, Scrum, AWS, Azure, Git, and more.
+- TypeScript, Kubernetes, Docker, Python, Ansible, IntelliJ IDEA, VS Code, Scrum, AWS, Azure, Git, and more.
 - Iterative development with short release cycles.
 
 - Transparency and openness.
