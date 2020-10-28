@@ -3,7 +3,7 @@
 ## What I Am Offering
 - 15+ years of experience spanning software development for a plethora of platforms, network administration and maintenance, full stack web development, single machine setups as well as clusters. I also have experience talking to customers, and am able to proficiently understand their problems and propose appropriate solutions.  
 - Very quick learner, preferring diving deep, rather than superficial understanding.
-- Knowledge about multiple different programming languages and paradigms (currently, my favorites are TypeScript, OOO TDD a DDD with a sprinkle of functional programming).
+- Knowledge about multiple different programming languages and paradigms (currently, my favorites are TypeScript, OOO TDD and DDD with a sprinkle of functional programming).
 - I truly enjoy this field, and always do my best to get better at it.
 - Will consider relocation.
 
