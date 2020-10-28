@@ -38,6 +38,7 @@
 
 ## Professional History
 - Too much to all fit here. There's a lot I know already, and what I don't know, am always willing to learn, if it helps us grow and deliver better solutions.
+- For those who care, there is a list of random keywords at the bottom.
 
 ### 2019-present: Software Development Engineer at Akamai
 * Full-stack development of a feature enablement service that protomotes DevOps culture
@@ -78,3 +79,6 @@
 	- Experience with full-stack development of web applications using PHP (Nette, Dibi, etc).
 - Created and maintained an e-commerce site for wholesale business partners.
 	- Experience with full-stack development of web applications using PHP (Nette, Dibi, etc).
+
+### Keywords
+PHP, Pearl, Java, JavaScript, TypeScript, Python, Bash, Powershell, Linux, Windows, MacOS, Kubernetes, Rancher, Docker, Ansible, PostgreSQL, IntelliJ, VS Code, Git, Garden, Skaffold, Helm, Terraform, HTTPS, SSL, ...
