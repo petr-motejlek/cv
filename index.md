@@ -14,6 +14,7 @@
 - Automation and clouds, with continuous integration and deployment (DevOps is a must).
 - TypeScript, Kubernetes, Docker, Python, Ansible, IntelliJ IDEA, VS Code, Scrum, AWS, Azure, Git, and more.
 - Iterative development with short release cycles.
+- Typing the code (hence TypeScript).
 
 - Transparency and openness.
 - Sharing what I know with others.
