@@ -19,6 +19,7 @@
 - Agile, open, transparent and trusting environment where teams are empowered to come up with solutions to problems on their own. No long-winded requirement specification or design documents written by "somebody else" for the teams to "implement without thinking".
 - Prefer software over hardware.
 - Prefer working on/with web and media technologies, or related.
+- Able to work as a manager, some experience with being a Product Owner and Scrum Master, however prefer being a highly engaged member of a development team.
 
 ## I Enjoy Doing, Know About and Am Highly Motivated By
 - Automation and clouds, with continuous integration and deployment - I want us to deploy our software ourselves (DevOps is a must).
@@ -34,8 +35,6 @@
 - Drive for continuously inspecting and adapting on all levels of the organization.
 - Flat organization with high-performing teams organized around projects with full support, responsibility and accountability.
 - I prefer face to face conversations, however understand that right now, that's not really possible.
-
-- Able to work as a leader (experience with managing people, being a Product Owner and Scrum Master), however prefers being a highly engaged member of a development team.
 
 - Like to travel.
 
