@@ -1,5 +1,13 @@
 # CV
 # Petr Motejlek
+
+## Table of Contents
+- [What I Am Offering](#what-i-am-offering)
+- [What I Am Looking For](#what-i-am-looking-for)
+- [I Enjoy Doing, Know About and Am Highly Motivated By](#i-enjoy-doing-know-about-and-am-highly-motivated-by)
+- [I Dislike and Get Demotivated By](#i-dislike-and-get-demotivated-by)
+- [Professional History](#professional-history)
+
 ## What I Am Offering
 - 15+ years of experience spanning software development for a plethora of platforms, network administration and maintenance, full stack web development, single machine setups as well as clusters. I also have experience talking to customers, and am able to proficiently understand their problems and propose appropriate solutions.  
 - Very quick learner, preferring diving deep, rather than superficial understanding.
