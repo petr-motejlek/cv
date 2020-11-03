@@ -52,6 +52,8 @@
 ### 2019-present: Software Development Engineer at Akamai
 * Full-stack development of a feature enablement service that protomotes DevOps culture
   across engineering groups at Akamai.
+* The first version that allowed running the first A/B test on Akamai's platform in 2 weeks.
+* Combination of Python, GraphQL (Graphene), PostgreSQL, TypeScript, Vue+Vuetify.
 
 ### 2015-2019: Engineering Manager at Akamai
 * Lead 8+ engineers spread across two scrum teams.
