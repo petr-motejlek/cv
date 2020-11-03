@@ -9,6 +9,8 @@
 
 ## What I Am Looking For
 - Agile, open, transparent and trusting environment where teams are empowered to come up with solutions to problems on their own. No long-winded requirement specification or design documents written by "somebody else" for the teams to "implement without thinking".
+- Prefer software over hardware.
+- Prefer working on/with web and media technologies, or related.
 
 ## I Enjoy Doing, Know About and Am Highly Motivated By
 - Automation and clouds, with continuous integration and deployment - I want us to deploy our software ourselves (DevOps is a must).
