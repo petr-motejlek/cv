@@ -39,10 +39,8 @@
 - Like to travel.
 
 ## I Dislike and Get Demotivated By
-- Organizational politics.
-- Complex organizational ladders and hierarchy.
+- Complex organizational ladders, politics and hierarchy.
 - Thinking of people as “resources” and thinking they can deliver the best output when working on more than one project.
-- People's reluctance to continuously improve.
 - Repetitive manual tasks and outgrown historical systems.
 - Incremental (waterfall) development with long release cycles.
 - Waste, both physical (unnecessary paper overuse), as well as process.
