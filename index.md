@@ -3,7 +3,7 @@
 
 ## Table of Contents
 - [What I Am Offering](#what-i-am-offering)
-- [What I Am Looking For](#what-i-am-looking-for)
+- [What Next Challenge I Am Looking For](#what-next-challenge-i-am-looking-for)
 - [I Enjoy Doing, Know About and Am Highly Motivated By](#i-enjoy-doing-know-about-and-am-highly-motivated-by)
 - [I Dislike and Get Demotivated By](#i-dislike-and-get-demotivated-by)
 - [Professional History](#professional-history)
@@ -15,18 +15,18 @@
 - I truly enjoy this field, and always do my best to get better at it.
 - Live in Prague, Czech Republic.
 
-## What I Am Looking For
-- Agile, open, transparent and trusting environment where teams are empowered to come up with solutions to problems on their own. No long-winded requirement specification or design documents written by "somebody else" for the teams to "implement without thinking".
-- Prefer software over hardware.
-- Prefer working on/with web and media technologies, or related.
-- Able to work as a manager, some experience with being a Product Owner and Scrum Master, however prefer being a highly engaged member of a development team.
+## What Next Challenge I Am Looking For
+- To be developing a product through which we can make a direct impact on our customers.
 
 ## I Enjoy Doing, Know About and Am Highly Motivated By
+- Agile, open, transparent and trusting environment where teams are empowered to come up with solutions to problems on their own. No long-winded requirement specification or design documents written by "somebody else" for the teams to "implement without thinking".
 - Automation and clouds, with continuous integration and deployment - I want us to deploy our software ourselves (DevOps is a must).
 - TypeScript, Kubernetes, Docker, Python, Ansible, IntelliJ IDEA, VS Code, Scrum, AWS, Azure, Git, and more.
 - Iterative development with short release cycles.
 - Typing the code (hence TypeScript).
 - Clean code, clean architecture.
+- Prefer software over hardware.
+- Prefer working on/with web and media technologies, or related.
 
 - Transparency and openness.
 - Sharing what I know with others (verbally, through lectures, by compiling knowledge bases).
@@ -35,6 +35,8 @@
 - Drive for continuously inspecting and adapting on all levels of the organization.
 - Flat organization with high-performing teams organized around projects with full support, responsibility and accountability.
 - I prefer face to face conversations, however understand that right now, that's not really possible.
+
+- Able to work as a manager, some experience with being a Product Owner and Scrum Master, however prefer being a highly engaged member of a development team.
 
 - Like to travel.
 
