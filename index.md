@@ -17,6 +17,7 @@
 - TypeScript, Kubernetes, Docker, Python, Ansible, IntelliJ IDEA, VS Code, Scrum, AWS, Azure, Git, and more.
 - Iterative development with short release cycles.
 - Typing the code (hence TypeScript).
+- Clean code, clean architecture.
 
 - Transparency and openness.
 - Sharing what I know with others.
