@@ -29,7 +29,7 @@
 - Prefer working on/with web and media technologies, or related.
 
 - Transparency and openness.
-- Sharing what I know with others (verbally, through lectures, by compiling knowledge bases).
+- Sharing what I know with others (verbally, through lectures, by compiling [knowledge bases](https://github.com/petr-motejlek/knowledge-base)).
 - Learning more and more.
 - Working as a team, rather than an individual or a group of individuals. Pair and/or mob programming.
 - Drive for continuously inspecting and adapting on all levels of the organization.
