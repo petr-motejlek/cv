@@ -71,7 +71,7 @@
 * Lead 8+ engineers spread across two scrum teams.
 * Besides servant-leading, being involved in one team as a scrum master, also ran an agile evangelization group within the organization.
 * Daily experience with Scrum, Kanban, JIRA.
-* Created, hosted and contributed regularly to several in-house experience sharing meetings and online spaces.
+* Created, hosted and contributed regularly to several in-house knowledge sharing sessions and online spaces.
 
 ### 2014-2015: Lead Software Development Engineer in Test at Akamai
 * Lead a team of 5+ engineers. Still participated in the team’s day to day work as contributor.
