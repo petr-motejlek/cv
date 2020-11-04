@@ -16,7 +16,11 @@
 - Live in Prague, Czech Republic.
 
 ## What Next Challenge I Am Looking For
-- To be developing a product through which we can make a direct impact on our customers.
+- Develop a product through which we can make a direct impact on our customers and their users.
+- Could involve infrastructure as well, either as the platform for delivering/running the product, or be the product only itself.
+- Move more into functional programming with persistent data structures (Clojure or its derivatives, perhaps; but most languages do somehow support this paradigm too).
+- Would prefer (probably always will) a collocated team, but will experiment with remote too.
+- The job could involve consultancy work too (but it should only be to the extent of allowing others to do the above).
 
 ## I Enjoy Doing, Know About and Am Highly Motivated By
 - Agile, open, transparent and trusting environment where teams are empowered to come up with solutions to problems on their own. No long-winded requirement specification or design documents written by "somebody else" for the teams to "implement without thinking".
