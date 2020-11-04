@@ -1,6 +1,11 @@
 # CV
 # Petr Motejlek
 
+## Contact
+
+- e-mail petr@motejlek.net
+- [Petr Motejlek on LinkedIn](http://linkedin.com/in/petr-motejlek-910a9773)
+
 ## Table of Contents
 - [What I Am Offering](#what-i-am-offering)
 - [What Next Challenge I Am Looking For](#what-next-challenge-i-am-looking-for)
