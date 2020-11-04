@@ -61,7 +61,7 @@
 - For those who care, there is a list of random keywords at the bottom.
 
 ### 2019-present: Software Development Engineer at Akamai
-* Full-stack development of a feature enablement service that protomotes DevOps culture
+* Full-stack development of a feature enablement service that protomoted DevOps culture
   across engineering groups at Akamai.
 * The first version that allowed running the first A/B test on Akamai's platform in 2 weeks.
 * I particularly enjoyed the vision of being able to directly enable developers of features to enable them also.
@@ -69,8 +69,9 @@
 
 ### 2015-2019: Engineering Manager at Akamai
 * Lead 8+ engineers spread across two scrum teams.
-* Besides servant-leading, being involved in one team as a scrum master, also runs an agile evangelization group within the organization.
+* Besides servant-leading, being involved in one team as a scrum master, also ran an agile evangelization group within the organization.
 * Daily experience with Scrum, Kanban, JIRA.
+* Created, hosted and contributed regularly to several in-house experience sharing meetings and online spaces.
 
 ### 2014-2015: Lead Software Development Engineer in Test at Akamai
 * Lead a team of 5+ engineers. Still participated in the team’s day to day work as contributor.
