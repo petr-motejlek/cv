@@ -36,7 +36,7 @@
 - Flat organization with high-performing teams organized around projects with full support, responsibility and accountability.
 - I prefer face to face conversations, however understand that right now, that's not really possible.
 
-- Able to work as a manager, some experience with being a Product Owner and Scrum Master, however prefer being a highly engaged member of a development team.
+- Experience with leading teams (empowering them to work better and better, while developing team members), some experience with being a Product Owner and Scrum Master, however prefer being a highly engaged member of a development team.
 
 - Like to travel.
 
