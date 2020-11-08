@@ -63,7 +63,7 @@
 ### 2019-present: Software Development Engineer at Akamai
 * Full-stack development of a feature enablement service that protomoted DevOps culture
   across engineering groups at Akamai.
-* The first version that allowed running the first A/B test on Akamai's platform done in 2 weeks.
+* The first version of the product that allowed running an A/B test on Akamai's platform done in 2 weeks.
 * I particularly enjoyed the vision of being able to directly enable developers of features to enable them also.
 * Combination of Python, GraphQL (Graphene), PostgreSQL, TypeScript, Vue+Vuetify.
 
