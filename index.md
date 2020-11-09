@@ -23,7 +23,7 @@
 ## What Next Challenge I Am Looking For
 - Develop a product through which we can make a direct impact on our customers and their users.
 - Could involve infrastructure as well, either as the platform for delivering/running the product, or be the product by itself.
-- Move more into functional programming with persistent data structures (Clojure or its derivatives, perhaps; but most languages do somehow support this paradigm too).
+- Move more into functional programming with persistent data structures (Elm, Rust, Clojure or its derivatives, perhaps; but most languages do somehow support this paradigm too).
 - Would prefer (probably always will) a collocated team, but will experiment with remote too.
 - The job could involve consultancy (partially or fully) work too.
 
