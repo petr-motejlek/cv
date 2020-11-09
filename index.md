@@ -26,6 +26,7 @@
 - Move more into functional programming with persistent data structures (Elm, Rust, Clojure or its derivatives, perhaps; but most languages do somehow support this paradigm too).
 - Would prefer (probably always will) a collocated team, but will experiment with remote too.
 - The job could involve consultancy (partially or fully) work too.
+- I prefer full-time employment to contract work.
 
 ## I Enjoy Doing, Know About and Am Highly Motivated By
 - Agile, open, transparent and trusting environment where teams are empowered to come up with solutions to problems on their own. No long-winded requirement specification or design documents written by "somebody else" for the teams to "implement without thinking".
