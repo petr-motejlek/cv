@@ -12,7 +12,6 @@ module.exports = async function (context, req) {
 	    "-i", "index.md",
 	    "-t", "html5",
 	    "-s", "--self-contained",
-	    "-M", "title='Petr Motejlek, Curriculum Vitae'",
 	    "--css", "github.css",
 	    "-o", "index.html"
 	].join(" ") );
@@ -47,7 +46,6 @@ module.exports = async function (context, req) {
 	    "-f", "gfm",
 	    "-i", "index.md",
 	    "-t", "latex",
-	    "-M", "title='Petr Motejlek, Curriculum Vitae'",
 	    "-o", "cv.pdf"
 	].join(" ") );
     context.log("Generated the PDF file from Markdown.");
