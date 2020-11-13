@@ -46,8 +46,8 @@ module.exports = async function (context, req) {
         "pandoc",
 	    "-f", "gfm",
 	    "-i", "index.md",
-	    // "-t", "pdf",
-	    // "-M", "title='Petr Motejlek, Curriculum Vitae'",
+	    "-t", "latex",
+	    "-M", "title='Petr Motejlek, Curriculum Vitae'",
 	    "-o", "cv.pdf"
 	].join(" ") );
     context.log("Generated the PDF file from Markdown.");

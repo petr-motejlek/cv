@@ -8,7 +8,10 @@ RUN	true \
 	&& apt-get update \
 	&& apt-get install -y --no-install-recommends \
 		ca-certificates \
+                lmodern \
+                texlive-fonts-recommended \
                 texlive-latex-base \
+                texlive-latex-recommended \
 		wget \
 	&& wget https://github.com/jgm/pandoc/releases/download/2.7.2/pandoc-2.7.2-1-amd64.deb \
 	&& dpkg -i pandoc-2.7.2-1-amd64.deb \
