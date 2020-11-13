@@ -42,5 +42,38 @@ module.exports = async function (context, req) {
 	}
     );
 
-    
+    execSync( [
+        "pandoc",
+	    "-f", "gfm",
+	    "-i", "index.md",
+	    "-t", "pdf",
+	    "-M", "title='Petr Motejlek, Curriculum Vitae'",
+	    "-o", "cv.pdf"
+	].join(" ") );
+    context.log("Generated the PDF file from Markdown.");
+
+    blobSvc = azureStor.createBlobService(azureWebJobsStorage);
+    context.log("Connected to Azure Storage.");
+
+    blobSvc.createBlockBlobFromLocalFile(
+        '$web',
+	'cv.pdf',
+	'cv.pdf',
+	function(error, result, response) {
+	    if(!error) {
+	        context.res = {
+                    body: readFileSync('cv.pdf').toString()
+                }
+
+		context.done();
+	    } else {
+	        context.res = {
+		    status: 500,
+		    body: "Failed uploading the blob."
+		};
+		context.done();
+	    }
+	}
+    );
+
 };
